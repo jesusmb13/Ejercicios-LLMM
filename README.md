@@ -1,8 +1,6 @@
 # Ejercicios-LLMM
 Aquí se encontrará las actividades de los temas del módulo Lenguajes de Marcas del ciclo formativo superior de ASIR.
 
-![imagen lenguajes de marcas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fde%2Fsearch%3Fq%3Dw%2B3%2Bc&psig=AOvVaw0CvJSOSg6FxmXGvcQfeiiS&ust=1602493999636000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDLyr6ZrOwCFQAAAAAdAAAAABAP)
-
 **Actividades Tema 1**.
 Actividades | Enunciados
 ----- | ----------
