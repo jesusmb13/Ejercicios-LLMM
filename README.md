@@ -13,6 +13,7 @@ Actividades | Enunciados
 [Actividad 4](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%201/actividad%204.docx) | ¿Qué es markdown? Crea una cuenta en Github, si no la tienes ya. A continuación crea un repositorio nuevo llamado “prueba” que incluya una página “README.md”. Utiliza markdown para que incluya varias cabeceras, texto, una lista, un gráfico y una tabla.
 
 * **Actividades Tema 2**.
+
 Actividades | Enunciados
 ----- | -----
 [Actividad 1]() | Crea una página con el texto facilitado e incluye las etiquetas necesarias para: ● Crea una cabecera h1 para las siglas HTML ● Usa una cabecera h2 para “Introducción” y “Primeras especificaciones” ● Texto enfatizado para “Tim Berners-Lee” ● Coloca una etiqueta “strong” para “HyperText Markup Language” ● Usa una etiqueta “cite” para la referencia a wikipedia.
