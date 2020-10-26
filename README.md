@@ -16,7 +16,8 @@ Actividades | Enunciados
 
 Actividades | Enunciados
 ----- | -----
-[Actividad 1]() | Crea una página con el texto facilitado e incluye las etiquetas necesarias para: ● Crea una cabecera h1 para las siglas HTML ● Usa una cabecera h2 para “Introducción” y “Primeras especificaciones” ● Texto enfatizado para “Tim Berners-Lee” ● Coloca una etiqueta “strong” para “HyperText Markup Language” ● Usa una etiqueta “cite” para la referencia a wikipedia.
+[Actividad 1]() | Crea una página con el texto facilitado e incluye las etiquetas necesarias para:
+● Crea una cabecera h1 para las siglas HTML ● Usa una cabecera h2 para “Introducción” y “Primeras especificaciones” ● Texto enfatizado para “Tim Berners-Lee” ● Coloca una etiqueta “strong” para “HyperText Markup Language” ● Usa una etiqueta “cite” para la referencia a wikipedia.
 [Actividad 2]() | 
 [Actividad 3]() | 
 [Actividad 4]() | 
