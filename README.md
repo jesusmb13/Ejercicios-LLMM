@@ -17,7 +17,7 @@ Actividades | Enunciados
 Actividades | Enunciados
 ----- | -----
 [Actividad 1](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%202/actividad%201.html) | Crea una página con el texto facilitado e incluye las etiquetas necesarias para: ● Crea una cabecera h1 para las siglas HTML. ● Usa una cabecera h2 para “Introducción” y “Primeras especificaciones”. ● Texto enfatizado para “Tim Berners-Lee”. ● Coloca una etiqueta “strong” para “HyperText Markup Language”. ● Usa una etiqueta “cite” para la referencia a wikipedia.
-[Actividad 2]() | Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto. La página debe presentar el aspecto mostrado a continuación.
+[Actividad 2](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%202/actividad%202.html) | Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto. La página debe presentar el aspecto mostrado a continuación.
 [Actividad 3]() | Usa el texto mostrado y dale el formato siguiendo las indicaciones: ● Crea una cabecera h1 para “Curriculum Vitae”. ● Usa una cabecera h2 Cada apartado. ● Coloca una etiqueta “strong” para los datos.
 [Actividad 4]() | Crea una página html que muestre el siguiente aspecto:
 [Actividad 5]() | Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4: https://uniwebsidad.com/libros/xhtml/capitulo-4/enlaces-basicos
