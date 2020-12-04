@@ -30,4 +30,4 @@ Actividades | Enunciados
 [Actividad 12]() | Crea la tabla mostrada a continuación. Usa cabeceras y los atributos necesarios.
 [Actividad 13]() | Display your timetable in the school. If you have the same subject 2 or 3 hours in a row then it should be combined in one cell. The break should be displayed in one row..
 [Actividad 14]() | Display the following table. Use heading cells where necessary and all attributes you need.
-[Actividad 15]() | Display the following table. Use heading cells where necessary and all attributes you need. You must use the tags <table>, <tr>, <td>, <th>, <caption> and the attributes colspan, rowspan, abbr, scope, summary.
+[Actividad 15]() | Display the following table. Use heading cells where necessary and all attributes you need. You must use the tags < table >, < tr >, < td >, < th >, <caption> and the attributes colspan, rowspan, abbr, scope, summary.
