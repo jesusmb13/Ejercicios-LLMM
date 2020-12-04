@@ -21,18 +21,18 @@ Actividades | Enunciados
 [Actividad 3](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%202/actividad%203.html) | Usa el texto mostrado y dale el formato siguiendo las indicaciones: ● Crea una cabecera h1 para “Curriculum Vitae”. ● Usa una cabecera h2 Cada apartado. ● Coloca una etiqueta “strong” para los datos.
 [Actividad 4](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%202/actividad%204.html) | Crea una página html que muestre el siguiente aspecto:
 [Actividad 5](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%202/actividad%205) | Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4: [Este es el enlace de la actividad](https://uniwebsidad.com/libros/xhtml/capitulo-4/enlaces-basicos)
-[Actividad 6]() | Crea un página html como la mostrada a continuación: Usa viñetas tipográficas como: &#8226; Añade un logotipo en la parte superior de la página. Añade los siguientes enlaces:
-● Home: index.html
-● Races: races.html
-● Resources: resources.html
-● Calculator: calculator.html (Debe abrirse en una nueva ventana)
-● Running Log: runninglog.html
-● My Account: myaccount.html
-● Log out: logout.html
-● the most up-to-date information on running races: races.html
-● the best resources for runners: resources.html
-● Añade un enlace de tipo email info@runnershome.com tras el copyright
-Cada página incluirá el logotipo y la barra de menús: “Home | Races | Resources …”,
-además del pie de página con el copyright. Para la barra de menús usa una lista como la
-mostrada en el ejemplo final del artículo de w3chools:
-
+[Actividad 6]() | Crea un página html como la mostrada a continuación: Usa viñetas tipográficas como: &#8226; Añade un logotipo en la parte superior de la página. Añade los siguientes enlaces: ● Home: index.html ● Races: races.html ● Resources: resources.html ● Calculator: calculator.html (Debe abrirse en una nueva ventana) ● Running Log: runninglog.html ● My Account: myaccount.html ● Log out: logout.html ● the most up-to-date information on running races: races.html ● the best resources for runners: resources.html ● Añade un enlace de tipo email info@runnershome.com tras el copyright Cada página incluirá el logotipo y la barra de menús: “Home | Races | Resources …”,
+además del pie de página con el copyright. Para la barra de menús usa una lista como la mostrada en el ejemplo final del artículo de w3chools:
+ [https://www.w3schools.com/html/html_lists.asp](https://www.w3schools.com/html/html_lists.asp) Nota: Como el ejercicio a desarrollar usa dos listas, se recomienda emplear un selector de clase en la hoja de estilos, tal como se explica en: [https://www.w3schools.com/css/css_selectors.asp](https://www.w3schools.com/css/css_selectors.asp).
+[Actividad 7]() | Write a HTML page with the follow two levels nested list.
+[Actividad 8]() | Añade los siguientes ítems.
+[Actividad 9]() | Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
+Usa un color de fondo diferente para cada párrafo y un color de texto igualmente distinto. Emplea tipo de letra verdana para las cabeceras y courier para los párrafos. Usa una alineación diferente para cada párrafo.
+[Actividad 10]() | Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
+Utiliza un tipo de borde diferente para cada párrafo. Usa un color distinto para el color del borde de cada cabecera.
+[Actividad 11]() | Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
+Usa los siguientes valores para el párrafo 1: margin: 0px; padding: 50px;. Usa los siguientes valores para el párrafo 2: margin: 30px; padding: 0px;. Usa los siguientes valores para el párrafo 3: margin: 50px; padding: 30px;. Usa los siguientes valores para el párrafo 4: margin: 30px; padding: 50px;. Añade un borde para cada cabecera.
+[Actividad 12]() | Crea la tabla mostrada a continuación. Usa cabeceras y los atributos necesarios.
+[Actividad 13]() | Display your timetable in the school. If you have the same subject 2 or 3 hours in a row then it should be combined in one cell. The break should be displayed in one row..
+[Actividad 14]() | Display the following table. Use heading cells where necessary and all attributes you need.
+[Actividad 15]() | Display the following table. Use heading cells where necessary and all attributes you need. You must use the tags <table>, <tr>, <td>, <th>, <caption> and the attributes colspan, rowspan, abbr, scope, summary.
