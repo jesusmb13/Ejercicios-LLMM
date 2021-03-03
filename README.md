@@ -36,4 +36,7 @@ Actividades | Enunciados
 [Actividad 18](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%202/actividad%2018) | Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas. Nota: Lee los siguientes artículos antes de comenzar el ejercicio: https://www.w3schools.com/howto/howto_css_thumbnail.asp https://www.w3schools.com/css/css_float.asp
 
 ## 2º TRIMESTRE
-* **Actividades Tema 3** *.
+* **Actividades Tema 3**.
+
+Actividades | Enunciados
+----- | -----
