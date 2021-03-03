@@ -40,7 +40,7 @@ Actividades | Enunciados
 
 Actividades | Enunciados
 ----- | -----
-[Actividad 19]() | Crea una página que incluya una barra de menús: “html / css / javascript / Ajax”. A continuación se mostrará un iFrame en el que se visualizará el apartado correspondiente de la página “uniwebsidad” de cada uno de los enlaces del menú anterior. La anchura del iFrame será el 90% de la página e incluirá un borde de 1px.
+[Actividad 19]() | Crea una página que incluya una barra de menús: “html, css, javascript, Ajax”. A continuación se mostrará un iFrame en el que se visualizará el apartado correspondiente de la página “uniwebsidad” de cada uno de los enlaces del menú anterior. La anchura del iFrame será el 90% de la página e incluirá un borde de 1px.
 Para la barra de menús usa una lista como la mostrada en el ejemplo final del artículo de w3chools: https://www.w3schools.com/html/html_lists.asp
 [Actividad 20]() | Display the following HTML form:
 Forms with different kinds of controls
