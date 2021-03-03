@@ -2,7 +2,7 @@
 Aquí se encontrará las actividades de los temas del módulo Lenguajes de Marcas del ciclo formativo superior de ASIR.
 
 ![LLMM](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/LLMM.png)
-
+## 1er TRIMESTRE
 * **Actividades Tema 1**.
 
 Actividades | Enunciados
@@ -34,3 +34,6 @@ Actividades | Enunciados
 [Actividad 16](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%202/actividad%2016) | Muestra una imagen con posicionamiento flotante a izquierda junto a un párrafo con texto. A continuación agrega una imagen con posicionamiento flotante a derecha junto a un párrafo con texto. Nota: Lee los siguientes artículos antes de comenzar el ejercicio: (https://www.w3schools.com/css/css_float.asp)
 [Actividad 17](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%202/actividad%2017) | Usa las imágenes de w3school incluidas al principio del artículo del enlace siguiente y agregales texto, tal como aparece en el ejemplo final del artículo sobre posicionamiento flotante. https://www.w3schools.com/html/html_images.asp Muestra las tres imágenes mediante posicionamiento flotante. Nota: Lee los siguientes artículos antes de comenzar el ejercicio: https://www.w3schools.com/css/css_float.asp
 [Actividad 18](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%202/actividad%2018) | Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas. Nota: Lee los siguientes artículos antes de comenzar el ejercicio: https://www.w3schools.com/howto/howto_css_thumbnail.asp https://www.w3schools.com/css/css_float.asp
+
+## 2º TRIMESTRE
+* **Actividades Tema 3** *.
