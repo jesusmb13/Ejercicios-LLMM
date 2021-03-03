@@ -44,3 +44,7 @@ Actividades | Enunciados
 [Actividad 20]() | Display the following HTML form: Forms with different kinds of controls. ● Choose the best method.(GET o POST). ● Name has 30 characters as maximum, surname 80, and password 10. ● Newsletter Sign checked by default.
 [Actividad 21]() | Append new controls to last exercise.
 [Actividad 22]() | En esta actividad crearemos un formulario simple para hacer login y usaremos una página php para mostrar los datos del usuario. Usaremos como referencia el ejemplo que aparece en el tutorial de php de W3schools y que aparece en el siguiente enlace: https://www.w3schools.com/php/php_forms.asp
+
+### CSS
+Actividades | Enunciados
+----- | -----
