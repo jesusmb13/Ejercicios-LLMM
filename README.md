@@ -52,3 +52,9 @@ Actividades | Enunciados
 [Actividad 10](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%203/actividades%20CSS/actividad%2010) | Crea una página que incluya una barra de navegación con tres opciones y una galería de imágenes como la del ejemplo de w2schools: https://www.w3schools.com/css/css_navbar.asp https://www.w3schools.com/css/css_image_gallery.asp
 [Actividad 11]() | Crea una web adaptativa (responsibe) como la mostrada en w3school. La web debe contener una cabecera, barra de navegación, diseño a dos columnas adaptable y un pie de página. Puedes inventar el contenido: https://www.w3schools.com/css/css_website_layout.asp
 
+### JAVASCRIPT
+
+Actividades | Enunciados
+-----|-----
+[Actividad 2]() | Modify the code for: 1.) Add a button (and a function) which writes into the p demo when click. 2.) Place the script in an external file called js02.js.
+[Actividad 3]() | In this file you will find images about cars. In this other file you will find images about Spiderman. You will write a web page where you could display different images of cars or Spiderman by clicking on buttons (1 for each image). 1.) You can also build two different areas in the same page one for each group of images. 2.) Finally, write two stylesheets and add two buttons for changing between styles.
