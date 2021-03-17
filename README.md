@@ -56,5 +56,5 @@ Actividades | Enunciados
 
 Actividades | Enunciados
 -----|-----
-[Actividad 2]() | Modify the code for: 1.) Add a button (and a function) which writes into the p demo when click. 2.) Place the script in an external file called js02.js.
-[Actividad 3]() | In this file you will find images about cars. In this other file you will find images about Spiderman. You will write a web page where you could display different images of cars or Spiderman by clicking on buttons (1 for each image). 1.) You can also build two different areas in the same page one for each group of images. 2.) Finally, write two stylesheets and add two buttons for changing between styles.
+[Actividad 2]() | Modify the code for: **1.)** Add a button (and a function) which writes into the p demo when click. **2.)** Place the script in an external file called js02.js.
+[Actividad 3]() | In this file you will find images about cars. In this other file you will find images about Spiderman. You will write a web page where you could display different images of cars or Spiderman by clicking on buttons (1 for each image). **1.)** You can also build two different areas in the same page one for each group of images. **2.)** Finally, write two stylesheets and add two buttons for changing between styles.
