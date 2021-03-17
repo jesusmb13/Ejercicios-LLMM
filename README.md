@@ -3,7 +3,6 @@ Aquí se encontrará las actividades de los temas del módulo Lenguajes de Marca
 
 ![LLMM](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/LLMM.png)
 ## 1ER TRIMESTRE
-* **Actividades Tema 1**.
 
 Actividades | Enunciados
 ----- | ----------
@@ -11,8 +10,6 @@ Actividades | Enunciados
 [Actividad 2](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%201/actividad%202.xml) | Crea un documento xml que incluya información sobre un par de libros de una biblioteca.
 [Actividad 3](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%201/actividad%203) | ¿Qué es SVG? Busca un ejemplo.
 [Actividad 4](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%201/actividad%204.docx) | ¿Qué es markdown? Crea una cuenta en Github, si no la tienes ya. A continuación crea un repositorio nuevo llamado “prueba” que incluya una página “README.md”. Utiliza markdown para que incluya varias cabeceras, texto, una lista, un gráfico y una tabla.
-
-* **Actividades Tema 2**.
 
 Actividades | Enunciados
 ----- | -----
@@ -36,7 +33,7 @@ Actividades | Enunciados
 [Actividad 18](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%202/actividad%2018) | Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas. Nota: Lee los siguientes artículos antes de comenzar el ejercicio: https://www.w3schools.com/howto/howto_css_thumbnail.asp https://www.w3schools.com/css/css_float.asp
 
 ## 2º TRIMESTRE
-* **Actividades Tema 3**.
+
 ### HTML
 Actividades | Enunciados
 ----- | -----
