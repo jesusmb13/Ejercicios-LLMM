@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function toCelsius(f) {
+  return (5/9) * (f-32);
+}
+function muestra() {
+	f = document.getElementById("tbf").value;
+    c = toCelsius(f);
+    document.getElementById("tbc").value = c;
+}
+
+</script>
+</head>
+<body>
+
+<h2>JavaScript Functions</h2>
+
+<p>This example calls a function to convert from Fahrenheit to Celsius:</p>
+<label for="tbf">Fahrenheit:</label><br>
+<input type="text" id="tbf" name="tbf"><br><br>
+<label for="tbc">Celsius:</label><br>
+<input type="text" id="tbc" name="tbc"><br><br>
+<button type="button" onclick="muestra()">Convierte</button>
+</body>
+</html>
