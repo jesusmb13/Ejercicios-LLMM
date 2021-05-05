@@ -70,7 +70,7 @@ Actividades | Enunciados
 
 Actividades | Enunciados
 ----- | -----
-[Actividad 5]() | Create a HTML document from scratch with three groups of buttons. Each group will be focused on three differents issues: **a.)** Changing the style of a paragraph: choosing between three different font styles. **b.)** Changing the attribute src from the img tag. **c.)** Showing three different messages in a <div> tag.
+[Actividad 5](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%203/actividades%20JS/Actividad%2005.html) | Create a HTML document from scratch with three groups of buttons. Each group will be focused on three differents issues: **a.)** Changing the style of a paragraph: choosing between three different font styles. **b.)** Changing the attribute src from the img tag. **c.)** Showing three different messages in a <div> tag.
 [Actividad 6](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%203/actividades%20JS/Actividad%2006) | Create a HTML document from scratch similar to the following: https://js-beginners.github.io/random-quotes-project/.
 [Actividad 7]() | Create a HTML document from scratch similar to the following: https://js-beginners.github.io/background-image-slider-project/.
 [Actividad 8](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%203/actividades%20JS/Actividad%2008) | Create a HTML document from scratch similar to the following: https://jsbeginners.com/calculator-javascript-project/.
