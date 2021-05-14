@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books [
+<!ELEMENT books (book*)>
+<!ELEMENT book (name, phone, e-mail, company)>
+    <!ELEMENT name (#PCDATA)>
+    <!ATTLIST book address (street|no|zip|country) #REQUIRED>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT e-mail (#PCDATA)*>
+    <!ELEMENT company (comp_name, list)>
+    <!ELEMENT comp_name (#PCDATA)>
+    <!ELEMENT list (site, URL)>
+    <!ELEMENT site (#PCDATA)>
+    <!ELEMENT URL (#PCDATA)>
+]>
+
+<books>
+  <book address="street">
+    <name>Koyoharu Gotouge</name>
+    <phone>123456879</phone>
+    <e-mail>koyogo@gmail.com</e-mail>
+    <company>
+      <comp_name>Kadokawa</comp_name>
+      <list>
+        <site>kadokawa.com</site>
+        <URL>https://es.wikipedia.org/wiki/Kadokawa_Sh%C5%8Dten</URL>
+      </list>
+    </company>
+  </book>
+</books>

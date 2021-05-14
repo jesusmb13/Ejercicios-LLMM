@@ -1,0 +1,11 @@
+<!ELEMENT books (book*)>
+<!ELEMENT book (name, phone, e-mail, company)>
+    <!ELEMENT name (#PCDATA)>
+    <!ATTLIST book address (street|no|zip|country) #REQUIRED>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT e-mail (#PCDATA)*>
+    <!ELEMENT company (comp_name, list)>
+    <!ELEMENT comp_name (#PCDATA)>
+    <!ELEMENT list (site, URL)>
+    <!ELEMENT site (#PCDATA)>
+    <!ELEMENT URL (#PCDATA)>

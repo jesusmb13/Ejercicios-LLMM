@@ -1,0 +1,8 @@
+<!ELEMENT books (book*)>
+<!ELEMENT book (name, address, phone, e-mail, age)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT e-mail (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ATTLIST book status (C|S|V|D) #REQUIRED>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books [
+<!ELEMENT books (book*)>
+<!ELEMENT book (name, address, phone, e-mail, age)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT e-mail (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ATTLIST book status (C|S|V|D) #REQUIRED>
+]>
+
+<books>
+  <book status="C">
+    <name>Koyoharu Gotouge</name>
+    <address>Avenida Andalucía Nº25</address>
+    <phone>123456879</phone>
+    <e-mail>koyogo@gmail.com</e-mail>
+    <age>2020</age>
+  </book>
+</books>
