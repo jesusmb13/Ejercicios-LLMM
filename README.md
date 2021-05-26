@@ -133,3 +133,9 @@ Actividades | Enunciados
 Actividades | Enunciados
 ----- | -----
 [Actividad 1](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%203/actividades%20XSLT/Actividad%201) | Transform the file "Universidad.xml" with XSLT in XHTML format for the following: **1)** A page with a H1 tag with a alphabetical list (full name) of students. Each student will be inserted in a paragraph. **2)** A page with a header with the text "Student List" followed by a table with the names in the first column and the surname on the second. The table must have a title row. **3)** A page with the heading "List of Careers" followed by a table with the name of the degree in the first column and the center where is taught in the second. The table must have a title row. **4)** A page with a header "List of Subjects in IT Computing" followed by a table with the name of the subject in the first column, the theoretical credits in the second and the practical credits in the last column. The table must have a title row. **5)** A page with a heading "Degrees Resources" followed by a table with the name and number of credits.
+
+### XQUERY
+
+Actividades | Enunciados
+----- | -----
+[Actividades](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%203/actividades%20XQUERY/Actividades.txt) | Escribe expresiones xQuery que permita mostrar los resultados expresados en cada apartado: **1)** Muestra el nombre de los productos del departamento “ACC” ordenador por nombre. **2)** Muestra el resultado anterior usando una lista no numerada de html. **3)** Muestra los productos del departamento “WMN” entre etiquetas <women> y las del departamento “MEN” entre etiquetas <men>. **4)** Muestra los productos del departamento “ACC” entre etiquetas <accnumber> y el resto usando etiquetas etiquetas <cod>. **5)** Muestra los productos del departamento “ACC”.
