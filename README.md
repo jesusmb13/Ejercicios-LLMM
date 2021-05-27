@@ -139,3 +139,9 @@ Actividades | Enunciados
 Actividades | Enunciados
 ----- | -----
 [Actividades](https://github.com/jesusmb13/Ejercicios-LLMM/blob/main/ACTIVIDADES%20TEMA%203/actividades%20XQUERY/Actividades.txt) | Escribe expresiones xQuery que permita mostrar los resultados expresados en cada apartado: **1)** Muestra el nombre de los productos del departamento “ACC” ordenador por nombre. **2)** Muestra el resultado anterior usando una lista no numerada de html. **3)** Muestra los productos del departamento “WMN” entre etiquetas <women> y las del departamento “MEN” entre etiquetas <men>. **4)** Muestra los productos del departamento “ACC” entre etiquetas <accnumber> y el resto usando etiquetas etiquetas <cod>. **5)** Muestra los productos del departamento “ACC”.
+
+### RSS
+
+Actividades | Enunciados
+----- | -----
+[Actividad](https://github.com/jesusmb13/Ejercicios-LLMM/tree/main/ACTIVIDADES%20TEMA%203/actividades%20RSS) | Crea una página web que lea un archivo RSS mediante AJAX. Elige un archivo de RSS de tu libre elección y muestra apropiadamente la información contenida en dicho archivo.
